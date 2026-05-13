@@ -21,7 +21,6 @@ The project demonstrates data cleaning, SQL analysis, dashboard development, and
 
 Olist-Ecommerce-Store-Analysis
 
-│
 
 ├── Excel-Dashboard
 
