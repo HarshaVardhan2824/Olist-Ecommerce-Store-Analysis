@@ -8,7 +8,7 @@ Download the dashboard here:
 
 ## Dashboard Preview
 
-![Excel Dashboard 1](../Images/excel_dashboard.jpeg)
+![Excel Dashboard 1](../Images/excel_dashboard.png)
 
 
 
