@@ -12,4 +12,4 @@ Tableau dashboard created for visual analysis of Olist E-Commerce sales and deli
 
 ## Dashboard Preview
 
-![Tableau Dashboard](../Images/tableau_dashboard.png)
+![Tableau Dashboard](../Images/tableau_dashboard_1.png)
